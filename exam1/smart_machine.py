@@ -1,6 +1,6 @@
 while True:
     try:
-        a = int(input("Enter anu number: "))
+        a = int(input("Enter any number: "))
         break
     except ValueError:
         continue
